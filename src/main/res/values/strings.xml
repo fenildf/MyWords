@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyWords</string>
+    <string name="yd_word_query_url">http://www.youdao.com/w/</string>
 </resources>
